@@ -1,2 +1,1 @@
-# hockeyAle
-proyecto final egg app !
+# Migthy Ducks Hockey League
